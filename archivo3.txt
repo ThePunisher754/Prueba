@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Se agrega etiqueta HTML
 <html>
 </html>
+=======
+Archivo número 3 de ejemplo 
+>>>>>>> parent of a9fe73e (Se actualiza archivo3.txt)
