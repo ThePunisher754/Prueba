@@ -1,6 +1,10 @@
 Este es el archivo 4
 Se agregan lineas sin sentido para pruebas
+<<<<<<< HEAD
 Se agregan lineas sin sentido para pruebas
 Se agregan lineas sin sentido para pruebas Git del comando revert
 
 Este es un archivo de prueba en el cual se están agregando líneas para ver el efecto del comando revert de Git.
+=======
+Se agregan lineas sin sentido para pruebas
+>>>>>>> parent of 82c3fb2 (Se agrega línea de prueba a archivo4)
